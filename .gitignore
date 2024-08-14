@@ -1,0 +1,12 @@
+# Ignore virtual environment
+env/
+
+# Ignore YogaPosev1.ini file
+YogaPosev1.ini
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files if any
+.vscode/
